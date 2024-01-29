@@ -26,7 +26,7 @@ I'm actively working on version 2 of my portfolio. The second version will be an
 
 ## Feedback and Contact
 
-I welcome feedback on this portfolio and would love to connect with you. Feel free to reach out through [email], [LinkedIn], or [Twitter].
+I welcome feedback on this portfolio and would love to connect with you. Feel free to reach out through [email](sarveshjaiofficial@gmail.com)
 
 Thank you for visiting my portfolio!
 
